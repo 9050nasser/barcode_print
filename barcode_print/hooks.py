@@ -188,3 +188,9 @@ user_data_fields = [
 #	"barcode_print.auth.validate"
 # ]
 
+doc_events = {
+    'Item':{
+        'validate':'barcode_print.ex_bar.get_barcode_value'
+	}
+}
+
