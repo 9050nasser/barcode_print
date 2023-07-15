@@ -190,7 +190,7 @@ user_data_fields = [
 
 doc_events = {
     'Item':{
-        'validate':'barcode_print.ex_bar.get_barcode_value'
+        'on_submit':'barcode_print.ex_bar.get_barcode_value'
 	}
 }
 

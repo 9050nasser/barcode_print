@@ -4,6 +4,7 @@ license.txt
 requirements.txt
 setup.py
 barcode_print/__init__.py
+barcode_print/ex_bar.py
 barcode_print/hooks.py
 barcode_print/modules.txt
 barcode_print/patches.txt
@@ -13,8 +14,18 @@ barcode_print.egg-info/dependency_links.txt
 barcode_print.egg-info/not-zip-safe
 barcode_print.egg-info/top_level.txt
 barcode_print/barcode_print/__init__.py
+barcode_print/barcode_print/doctype/__init__.py
+barcode_print/barcode_print/doctype/barcode_print/__init__.py
+barcode_print/barcode_print/doctype/barcode_print/barcode_print.js
+barcode_print/barcode_print/doctype/barcode_print/barcode_print.json
+barcode_print/barcode_print/doctype/barcode_print/barcode_print.py
+barcode_print/barcode_print/doctype/barcode_print/test_barcode_print.py
+barcode_print/barcode_print/print_format/__init__.py
+barcode_print/barcode_print/print_format/barcode/__init__.py
+barcode_print/barcode_print/print_format/barcode/barcode.json
 barcode_print/config/__init__.py
 barcode_print/config/desktop.py
 barcode_print/config/docs.py
 barcode_print/templates/__init__.py
 barcode_print/templates/pages/__init__.py
+barcode_print/www/__init__.py
